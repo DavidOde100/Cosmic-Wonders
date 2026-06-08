@@ -1,6 +1,6 @@
-# WEB103 Project 1 - *Name of App Here*
+# WEB103 Project 1 - *Cosmic Wonders*
 
-Submitted by: **Your name here**
+Submitted by: **David Odejimi**
 
 About this web app: **App description here**
 
